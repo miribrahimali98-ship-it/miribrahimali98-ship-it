@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]
+# Hi there, I'm Mir Ibrahim Ali
 
 ## About Me
 I am passionate about technology and continuous learning. I have knowledge in **Data Analytics**, **IT Tools**, and **Web Development**. I enjoy solving problems, working with data, and building modern web applications.
