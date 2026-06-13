@@ -60,6 +60,9 @@ I also work as a web developer and have experience with:
 - Contributing to open-source projects
 
 ---
+## Live View 
+🌐 [Live Demo](https://github.com/miribrahimali98-ship-it/Password_generator.git)
+🌐 [Live Demo](https://github.com/miribrahimali98-ship-it/Password_generator.git)
 
 ## Connect With Me
 - LinkedIn: Mir Ibrahim Ali 
