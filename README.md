@@ -61,7 +61,7 @@ I also work as a web developer and have experience with:
 
 ---
 ## Live View 
-🌐 [Live Demo]([https://github.com/miribrahimali98-ship-it/Password_generator.git](https://miribrahimali98-ship-it.github.io/Password_generator/))
+🌐 [Live Demo]((https://miribrahimali98-ship-it.github.io/Password_generator/))
 🌐 [Live Demo](https://github.com/miribrahimali98-ship-it/Password_generator.git)
 
 ## Connect With Me
